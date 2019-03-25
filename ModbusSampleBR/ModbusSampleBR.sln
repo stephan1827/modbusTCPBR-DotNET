@@ -1,6 +1,8 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusSampleBR", "ModbusSampleBR\ModbusSampleBR.csproj", "{58FDFD5A-F5BC-4F0C-B26F-45B3090168F9}"
 	ProjectSection(ProjectDependencies) = postProject
 		{F897CF80-7ACF-4ADF-8E4D-15F59A6217F7} = {F897CF80-7ACF-4ADF-8E4D-15F59A6217F7}
@@ -12,7 +14,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTCPBR", "..\ModbusTCP
 		{78A23B5B-CB72-4EDB-B594-5370D086197D} = {78A23B5B-CB72-4EDB-B594-5370D086197D}
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTCP", "..\ModbusTCP\ModbusTCP\ModbusTCP.csproj", "{78A23B5B-CB72-4EDB-B594-5370D086197D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTCP", "..\..\modbusTCP\modbusTCP\ModbusTCP\ModbusTCP.csproj", "{78A23B5B-CB72-4EDB-B594-5370D086197D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,5 +37,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FCE1713-A08D-497E-B089-8F885E0B5EAA}
 	EndGlobalSection
 EndGlobal
