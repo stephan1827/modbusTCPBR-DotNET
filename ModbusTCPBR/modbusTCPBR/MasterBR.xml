@@ -1,0 +1,125 @@
+﻿<?xml version="1.0"?>
+<Library>
+  <Namespace name="ModbusTCPBR">
+    <Doc name="MasterBR">
+      <example>
+        This sample shows how to connect to a BC controller.
+        <code>
+          private void btnConnect_Click(object sender, System.EventArgs e)
+          {
+          try
+          {
+          // Create new master instance, add events and reset watchdog
+          BRmaster = new ModbusTCPBR.MasterBR("br00606504009e", 502);
+
+          BRmaster.OnBCexception +=new ModbusTCPBR.MasterBR.BCexception(BRmaster_OnBCexception);
+          BRmaster.BCinfo.watchdog_reset();
+          }
+          catch(SystemException error)
+          {
+          MessageBox.Show(error.Message);
+          }
+          }
+
+          // ------------------------------------------------------------------------
+          // X20BC0087 controller exception
+          private void BRmaster_OnBCexception(int reason)
+          {
+          switch(reason)
+          {
+          //-----------------------------------------------------------------
+          case MasterBR.excWatchdog:
+          MessageBox.Show("Watchdog exception!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excTimeout:
+          MessageBox.Show("Connection timeout!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excConnection:
+          MessageBox.Show("Connection is lost!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excNoModule:
+          MessageBox.Show("Wrong module number!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excNoDigInData:
+          MessageBox.Show("This module has no digital input data!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excNoDigOutData:
+          MessageBox.Show("This module has no digital output data!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excNoAnaInData:
+          MessageBox.Show("This module has no analog input data!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excNoAnaOutData:
+          MessageBox.Show("This module has no analog output data!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excWrongRegData:
+          MessageBox.Show("Register data is wrong. Check module and register nr!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excDataEmptyAnswer:
+          MessageBox.Show("Controller returned no data.", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excDataSize:
+          MessageBox.Show("Data size is not correct!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excDataRange:
+          MessageBox.Show("Maximum value is 255", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excWrongEthernetFormat:
+          MessageBox.Show("The ethernet data you try to change is incorrect", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          //-----------------------------------------------------------------
+          case MasterBR.excUnhandled:
+          MessageBox.Show("This is an unhandled exception. Please contact BuR support!", "ModbusTCP error", MessageBoxButtons.OK,MessageBoxIcon.Error);
+          break;
+          }
+          }
+        </code>
+      </example>
+    </Doc>
+    <Doc name="BCexception">
+      <remarks>
+        The exception returns the parameter "reason" that explains why the exception was called. The following constants represent the possible reasons: <br /><br />
+        <b>excWatchdog</b><br />
+        This exception is called when the watchdog is timed out. To reactivate the watchdog call watchdog reset in info class.<br /><br />
+        <b>excTimeout</b><br />
+        This exception is called when a message is timed out.<br /><br />
+        <b>excConnection</b><br />
+        This exception is called when connection to the controller is lost.<br /><br />
+        <b>excNoModul</b><br />
+        Module dont exist.<br /><br />
+        <b>excNoDigInData</b><br />
+        Module has no digital input data.<br /><br />
+        <b>excNoDigOutData</b><br />
+        Module has no analog output data.<br /><br />
+        <b>excNoAnaInData</b><br />
+        Module has no analog input data.<br /><br />
+        <b>excNoAnaOutData</b><br />
+        Module has no analog output data.<br /><br />
+        <b>excWrongRegData</b><br />
+        Exception from ReadRegister or WriteRegister. Module number or register number is wrong.<br /><br />
+        <b>excDataEmptyAnswer</b><br />
+        The controller responded no data. Possible reason is a module mismatch.<br /><br />
+        <b>excDataSize</b><br />
+        Data size is either 0 or to longer than the analog data length of the module.<br /><br />
+        <b>excDataRange</b><br />
+        The value is invalid. Maximum value is 255.<br /><br />
+        <b>excWrongEthernetFormat</b><br />
+        The ethernet data (IP, subnet mask or gateway) is incorrect. Verify that you have a valid adress like x.x.x.x where x is between 0 and 55<br /><br />
+        <b>excUnhandled</b><br />
+        This is an unhandled exception. If is exception occurs please contact BuR support.<br /><br />
+      </remarks>
+    </Doc>
+  </Namespace>
+</Library>
