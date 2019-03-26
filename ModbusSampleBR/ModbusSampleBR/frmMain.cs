@@ -52,7 +52,7 @@ namespace ModbusSampleBR
                     BRmaster.Connect(txtIP.Text, 502);
 
                     BRmaster.BCinfo.watchdog_reset();
-                    BRmaster.BCinfo.watchdog_threshold = 6000;
+                    BRmaster.BCinfo.watchdog_threshold = 5000;
 
                     ReadControllerInfo(true);
 

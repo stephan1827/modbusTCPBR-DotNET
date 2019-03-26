@@ -22,6 +22,8 @@ namespace ModbusTCPBR
         /// <exclude/>
         public const byte excDevice = 4;
         /// <exclude/>
+        public const byte excBUSY = 6;
+        /// <exclude/>
         public const byte excNoModule = 10;
         /// <exclude/>
         public const byte excNoDigInData = 11;
@@ -667,6 +669,14 @@ namespace ModbusTCPBR
             // Wrong data address exception
             else if ((exception == ModbusTCP.Master.excIllegalDataAdr) &&
                      (OnBCexception != null)) OnBCexception(excDataSize);
+            // --------------------------------------------------------------------
+            // Write request while watchdog expired
+            else if ((exception == ModbusTCP.Master.excSlaveDeviceFailure) &&
+                     (OnBCexception != null)) OnBCexception(excDevice);
+            // --------------------------------------------------------------------
+            // Wrong data address exception
+            else if ((exception == ModbusTCP.Master.excSlaveIsBusy) &&
+                     (OnBCexception != null)) OnBCexception(excBUSY);
             else if (OnBCexception != null)
             {
                 OnBCexception(excUnhandled);
