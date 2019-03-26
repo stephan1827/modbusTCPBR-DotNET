@@ -20,6 +20,8 @@ namespace ModbusTCPBR
         /// <exclude/>
         public const byte excConnection = 3;
         /// <exclude/>
+        public const byte excDevice = 4;
+        /// <exclude/>
         public const byte excNoModule = 10;
         /// <exclude/>
         public const byte excNoDigInData = 11;

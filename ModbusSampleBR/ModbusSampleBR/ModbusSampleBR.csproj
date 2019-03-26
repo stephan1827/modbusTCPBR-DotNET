@@ -131,6 +131,12 @@
   <ItemGroup>
     <Content Include="BURico.ico" />
     <Content Include="Pictures\connect.png" />
+    <Content Include="Resources\Hwd.dll">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Resources\HwdParser.DLL">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <None Include="Pictures\read.png" />
     <None Include="Pictures\write.png" />
     <None Include="Pictures\modules.png" />
@@ -144,9 +150,7 @@
     <None Include="Pictures\modules_small.png" />
     <None Include="Pictures\X20BC0087small.png" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Resources\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
       <Visible>False</Visible>

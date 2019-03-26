@@ -52,6 +52,8 @@ namespace ModbusSampleBR
                     BRmaster.Connect(txtIP.Text, 502);
 
                     BRmaster.BCinfo.watchdog_reset();
+                    BRmaster.BCinfo.watchdog_threshold = 6000;
+
                     ReadControllerInfo(true);
 
                     // Set up buttons and tabs
@@ -475,6 +477,7 @@ namespace ModbusSampleBR
                 //// Modbus protocol
                 txtMBclients.Text = BRmaster.BCinfo.modbus_clients.ToString();
                 txtMBglobal_tel_cnt.Text = BRmaster.BCinfo.modbus_global_tel_cnt.ToString();
+                txtMBlocal_tel_cnt.Text = BRmaster.BCinfo.modbus_local_tel_cnt.ToString();
                 txtMBlocal_tel_cnt.Text = BRmaster.BCinfo.modbus_local_tel_cnt.ToString();
                 txtMBglobal_prot_cnt.Text = BRmaster.BCinfo.modbus_global_prot_cnt.ToString();
                 txtMBlocal_prot_cnt.Text = BRmaster.BCinfo.modbus_local_prot_cnt.ToString();
