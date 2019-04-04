@@ -1,5 +1,5 @@
 # modbusTCPBR
-modbusTCP driver for B&amp;R X20BC0087 bus controller. For more details see the help file in the repository.
+modbusTCP driver for B&amp;R X20BC0087 bus controller. For more details see the help file in the repository. Also see release package for additional tools.
 
 ## History
 Version 3.4 (26/03/2019)
