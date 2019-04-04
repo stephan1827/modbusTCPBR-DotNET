@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("modbusTCPBR")]
 [assembly: AssemblyDescription("This class provides access to B&R X20BC0087 modbusTCP controllers")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("B&R Atlanta USA")]
+[assembly: AssemblyCompany("B&R Germany")]
 [assembly: AssemblyProduct("ModbusTCP B&R driver")]
-[assembly: AssemblyCopyright("Copyright ©  2009")]
+[assembly: AssemblyCopyright("")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
