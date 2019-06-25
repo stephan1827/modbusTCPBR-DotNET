@@ -6,15 +6,9 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusSampleBR", "ModbusSampleBR\ModbusSampleBR.csproj", "{58FDFD5A-F5BC-4F0C-B26F-45B3090168F9}"
 	ProjectSection(ProjectDependencies) = postProject
 		{F897CF80-7ACF-4ADF-8E4D-15F59A6217F7} = {F897CF80-7ACF-4ADF-8E4D-15F59A6217F7}
-		{78A23B5B-CB72-4EDB-B594-5370D086197D} = {78A23B5B-CB72-4EDB-B594-5370D086197D}
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTCPBR", "..\ModbusTCPBR\modbusTCPBR\ModbusTCPBR.csproj", "{F897CF80-7ACF-4ADF-8E4D-15F59A6217F7}"
-	ProjectSection(ProjectDependencies) = postProject
-		{78A23B5B-CB72-4EDB-B594-5370D086197D} = {78A23B5B-CB72-4EDB-B594-5370D086197D}
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModbusTCP", "..\..\modbusTCP\modbusTCP\ModbusTCP\ModbusTCP.csproj", "{78A23B5B-CB72-4EDB-B594-5370D086197D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,10 +24,6 @@ Global
 		{F897CF80-7ACF-4ADF-8E4D-15F59A6217F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F897CF80-7ACF-4ADF-8E4D-15F59A6217F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F897CF80-7ACF-4ADF-8E4D-15F59A6217F7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78A23B5B-CB72-4EDB-B594-5370D086197D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78A23B5B-CB72-4EDB-B594-5370D086197D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78A23B5B-CB72-4EDB-B594-5370D086197D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78A23B5B-CB72-4EDB-B594-5370D086197D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
