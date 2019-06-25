@@ -137,6 +137,7 @@
     <Content Include="Resources\HwdParser.DLL">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
+    <Content Include="Resources\ModbusTCP.dll" />
     <None Include="Pictures\read.png" />
     <None Include="Pictures\write.png" />
     <None Include="Pictures\modules.png" />
