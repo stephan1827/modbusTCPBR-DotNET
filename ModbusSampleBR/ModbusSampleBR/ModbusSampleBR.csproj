@@ -59,14 +59,12 @@
       <HintPath>..\..\..\Import\HwdParser.DLL</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\VisualBasic.PowerPacks.Vs.1.0.0\lib\Microsoft.VisualBasic.dll</HintPath>
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>Resources\Microsoft.VisualBasic.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.VisualBasic.PowerPacks.Vs, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
-      <HintPath>..\packages\VisualBasic.PowerPacks.Vs.1.0.0\lib\Microsoft.VisualBasic.PowerPacks.Vs.dll</HintPath>
-    </Reference>
-    <Reference Include="ModbusTCP, Version=3.4.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\modbusTCP\modbusTCP\ModbusTCP\bin\Debug\ModbusTCP.dll</HintPath>
+      <HintPath>Resources\Microsoft.VisualBasic.PowerPacks.Vs.dll</HintPath>
     </Reference>
     <Reference Include="modbusTCPBR, Version=3.2.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -137,7 +135,8 @@
     <Content Include="Resources\HwdParser.DLL">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
-    <Content Include="Resources\ModbusTCP.dll" />
+    <Content Include="Resources\Microsoft.VisualBasic.dll" />
+    <Content Include="Resources\Microsoft.VisualBasic.PowerPacks.Vs.dll" />
     <None Include="Pictures\read.png" />
     <None Include="Pictures\write.png" />
     <None Include="Pictures\modules.png" />

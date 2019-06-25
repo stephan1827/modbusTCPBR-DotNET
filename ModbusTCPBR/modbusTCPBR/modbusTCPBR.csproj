@@ -43,9 +43,9 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>..\HwdParser.DLL</HintPath>
     </Reference>
-    <Reference Include="ModbusTCP, Version=3.4.0.0, Culture=neutral, processorArchitecture=MSIL">
+    <Reference Include="ModbusTCP, Version=3.6.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\modbusTCP\modbusTCP\ModbusTCP\bin\Debug\ModbusTCP.dll</HintPath>
+      <HintPath>..\ModbusTCP.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
