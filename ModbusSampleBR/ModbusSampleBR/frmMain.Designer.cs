@@ -452,7 +452,7 @@ namespace ModbusSampleBR
             // 
             this.txtIP.Location = new System.Drawing.Point(110, 48);
             this.txtIP.Name = "txtIP";
-            this.txtIP.Size = new System.Drawing.Size(156, 22);
+            this.txtIP.Size = new System.Drawing.Size(156, 20);
             this.txtIP.TabIndex = 1;
             this.txtIP.Text = "192.168.100.1";
             // 
@@ -687,7 +687,7 @@ namespace ModbusSampleBR
             this.label33.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label33.Location = new System.Drawing.Point(183, 326);
             this.label33.Name = "label33";
-            this.label33.Size = new System.Drawing.Size(60, 25);
+            this.label33.Size = new System.Drawing.Size(45, 20);
             this.label33.TabIndex = 53;
             this.label33.Text = "- - - - ";
             // 
@@ -697,7 +697,7 @@ namespace ModbusSampleBR
             this.label34.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label34.Location = new System.Drawing.Point(183, 296);
             this.label34.Name = "label34";
-            this.label34.Size = new System.Drawing.Size(60, 25);
+            this.label34.Size = new System.Drawing.Size(45, 20);
             this.label34.TabIndex = 52;
             this.label34.Text = "- - - - ";
             // 
@@ -707,7 +707,7 @@ namespace ModbusSampleBR
             this.label35.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label35.Location = new System.Drawing.Point(183, 267);
             this.label35.Name = "label35";
-            this.label35.Size = new System.Drawing.Size(60, 25);
+            this.label35.Size = new System.Drawing.Size(45, 20);
             this.label35.TabIndex = 51;
             this.label35.Text = "- - - - ";
             // 
@@ -717,7 +717,7 @@ namespace ModbusSampleBR
             this.label36.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label36.Location = new System.Drawing.Point(183, 237);
             this.label36.Name = "label36";
-            this.label36.Size = new System.Drawing.Size(60, 25);
+            this.label36.Size = new System.Drawing.Size(45, 20);
             this.label36.TabIndex = 50;
             this.label36.Text = "- - - - ";
             // 
@@ -727,7 +727,7 @@ namespace ModbusSampleBR
             this.label37.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label37.Location = new System.Drawing.Point(183, 207);
             this.label37.Name = "label37";
-            this.label37.Size = new System.Drawing.Size(60, 25);
+            this.label37.Size = new System.Drawing.Size(45, 20);
             this.label37.TabIndex = 49;
             this.label37.Text = "- - - - ";
             // 
@@ -737,7 +737,7 @@ namespace ModbusSampleBR
             this.label38.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label38.Location = new System.Drawing.Point(183, 177);
             this.label38.Name = "label38";
-            this.label38.Size = new System.Drawing.Size(60, 25);
+            this.label38.Size = new System.Drawing.Size(45, 20);
             this.label38.TabIndex = 48;
             this.label38.Text = "- - - - ";
             // 
@@ -747,7 +747,7 @@ namespace ModbusSampleBR
             this.label39.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label39.Location = new System.Drawing.Point(183, 147);
             this.label39.Name = "label39";
-            this.label39.Size = new System.Drawing.Size(60, 25);
+            this.label39.Size = new System.Drawing.Size(45, 20);
             this.label39.TabIndex = 47;
             this.label39.Text = "- - - - ";
             // 
@@ -757,7 +757,7 @@ namespace ModbusSampleBR
             this.label40.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label40.Location = new System.Drawing.Point(183, 116);
             this.label40.Name = "label40";
-            this.label40.Size = new System.Drawing.Size(60, 25);
+            this.label40.Size = new System.Drawing.Size(45, 20);
             this.label40.TabIndex = 46;
             this.label40.Text = "- - - - ";
             // 
@@ -767,7 +767,7 @@ namespace ModbusSampleBR
             this.label41.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label41.Location = new System.Drawing.Point(183, 87);
             this.label41.Name = "label41";
-            this.label41.Size = new System.Drawing.Size(60, 25);
+            this.label41.Size = new System.Drawing.Size(45, 20);
             this.label41.TabIndex = 45;
             this.label41.Text = "- - - - ";
             // 
@@ -777,7 +777,7 @@ namespace ModbusSampleBR
             this.label42.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label42.Location = new System.Drawing.Point(183, 56);
             this.label42.Name = "label42";
-            this.label42.Size = new System.Drawing.Size(60, 25);
+            this.label42.Size = new System.Drawing.Size(45, 20);
             this.label42.TabIndex = 44;
             this.label42.Text = "- - - - ";
             // 
@@ -787,7 +787,7 @@ namespace ModbusSampleBR
             this.label43.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label43.Location = new System.Drawing.Point(21, 356);
             this.label43.Name = "label43";
-            this.label43.Size = new System.Drawing.Size(80, 25);
+            this.label43.Size = new System.Drawing.Size(66, 20);
             this.label43.TabIndex = 41;
             this.label43.Text = "Data 12";
             // 
@@ -797,7 +797,7 @@ namespace ModbusSampleBR
             this.label44.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label44.Location = new System.Drawing.Point(21, 326);
             this.label44.Name = "label44";
-            this.label44.Size = new System.Drawing.Size(80, 25);
+            this.label44.Size = new System.Drawing.Size(66, 20);
             this.label44.TabIndex = 39;
             this.label44.Text = "Data 11";
             // 
@@ -807,7 +807,7 @@ namespace ModbusSampleBR
             this.label45.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label45.Location = new System.Drawing.Point(21, 296);
             this.label45.Name = "label45";
-            this.label45.Size = new System.Drawing.Size(80, 25);
+            this.label45.Size = new System.Drawing.Size(66, 20);
             this.label45.TabIndex = 37;
             this.label45.Text = "Data 10";
             // 
@@ -817,7 +817,7 @@ namespace ModbusSampleBR
             this.label46.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label46.Location = new System.Drawing.Point(21, 266);
             this.label46.Name = "label46";
-            this.label46.Size = new System.Drawing.Size(69, 25);
+            this.label46.Size = new System.Drawing.Size(57, 20);
             this.label46.TabIndex = 35;
             this.label46.Text = "Data 9";
             // 
@@ -827,7 +827,7 @@ namespace ModbusSampleBR
             this.label47.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label47.Location = new System.Drawing.Point(21, 236);
             this.label47.Name = "label47";
-            this.label47.Size = new System.Drawing.Size(69, 25);
+            this.label47.Size = new System.Drawing.Size(57, 20);
             this.label47.TabIndex = 33;
             this.label47.Text = "Data 8";
             // 
@@ -837,7 +837,7 @@ namespace ModbusSampleBR
             this.label48.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label48.Location = new System.Drawing.Point(21, 206);
             this.label48.Name = "label48";
-            this.label48.Size = new System.Drawing.Size(69, 25);
+            this.label48.Size = new System.Drawing.Size(57, 20);
             this.label48.TabIndex = 31;
             this.label48.Text = "Data 7";
             // 
@@ -847,7 +847,7 @@ namespace ModbusSampleBR
             this.label49.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label49.Location = new System.Drawing.Point(21, 176);
             this.label49.Name = "label49";
-            this.label49.Size = new System.Drawing.Size(69, 25);
+            this.label49.Size = new System.Drawing.Size(57, 20);
             this.label49.TabIndex = 29;
             this.label49.Text = "Data 6";
             // 
@@ -857,7 +857,7 @@ namespace ModbusSampleBR
             this.label50.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label50.Location = new System.Drawing.Point(21, 146);
             this.label50.Name = "label50";
-            this.label50.Size = new System.Drawing.Size(69, 25);
+            this.label50.Size = new System.Drawing.Size(57, 20);
             this.label50.TabIndex = 27;
             this.label50.Text = "Data 5";
             // 
@@ -867,7 +867,7 @@ namespace ModbusSampleBR
             this.label51.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label51.Location = new System.Drawing.Point(21, 116);
             this.label51.Name = "label51";
-            this.label51.Size = new System.Drawing.Size(69, 25);
+            this.label51.Size = new System.Drawing.Size(57, 20);
             this.label51.TabIndex = 25;
             this.label51.Text = "Data 4";
             // 
@@ -877,7 +877,7 @@ namespace ModbusSampleBR
             this.label52.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label52.Location = new System.Drawing.Point(21, 86);
             this.label52.Name = "label52";
-            this.label52.Size = new System.Drawing.Size(69, 25);
+            this.label52.Size = new System.Drawing.Size(57, 20);
             this.label52.TabIndex = 23;
             this.label52.Text = "Data 3";
             // 
@@ -887,7 +887,7 @@ namespace ModbusSampleBR
             this.label53.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label53.Location = new System.Drawing.Point(21, 56);
             this.label53.Name = "label53";
-            this.label53.Size = new System.Drawing.Size(69, 25);
+            this.label53.Size = new System.Drawing.Size(57, 20);
             this.label53.TabIndex = 21;
             this.label53.Text = "Data 2";
             // 
@@ -897,7 +897,7 @@ namespace ModbusSampleBR
             this.label54.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label54.Location = new System.Drawing.Point(21, 26);
             this.label54.Name = "label54";
-            this.label54.Size = new System.Drawing.Size(69, 25);
+            this.label54.Size = new System.Drawing.Size(57, 20);
             this.label54.TabIndex = 19;
             this.label54.Text = "Data 1";
             // 
@@ -905,7 +905,7 @@ namespace ModbusSampleBR
             // 
             this.textBox1.Location = new System.Drawing.Point(448, 216);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(92, 22);
+            this.textBox1.Size = new System.Drawing.Size(92, 20);
             this.textBox1.TabIndex = 18;
             this.textBox1.Text = "1";
             this.textBox1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -916,7 +916,7 @@ namespace ModbusSampleBR
             this.label55.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label55.Location = new System.Drawing.Point(385, 221);
             this.label55.Name = "label55";
-            this.label55.Size = new System.Drawing.Size(51, 25);
+            this.label55.Size = new System.Drawing.Size(40, 20);
             this.label55.TabIndex = 17;
             this.label55.Text = "Size";
             // 
@@ -924,7 +924,7 @@ namespace ModbusSampleBR
             // 
             this.textBox2.Location = new System.Drawing.Point(448, 154);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(92, 22);
+            this.textBox2.Size = new System.Drawing.Size(92, 20);
             this.textBox2.TabIndex = 16;
             this.textBox2.Text = "0";
             this.textBox2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -935,7 +935,7 @@ namespace ModbusSampleBR
             this.label56.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label56.Location = new System.Drawing.Point(383, 157);
             this.label56.Name = "label56";
-            this.label56.Size = new System.Drawing.Size(64, 25);
+            this.label56.Size = new System.Drawing.Size(53, 20);
             this.label56.TabIndex = 15;
             this.label56.Text = "Offset";
             // 
@@ -1049,7 +1049,7 @@ namespace ModbusSampleBR
             // 
             // tabPage10
             // 
-            this.tabPage10.BackColor = System.Drawing.Color.Transparent;
+            this.tabPage10.BackColor = System.Drawing.SystemColors.Control;
             this.tabPage10.Controls.Add(this.btnDIGread);
             this.tabPage10.Controls.Add(this.btnDIGwrite);
             this.tabPage10.Controls.Add(this.btnDIGdat12);
@@ -1092,10 +1092,10 @@ namespace ModbusSampleBR
             this.tabPage10.Controls.Add(this.label3);
             this.tabPage10.Controls.Add(this.shapeContainer1);
             this.tabPage10.Controls.Add(this.pictureBox2);
-            this.tabPage10.Location = new System.Drawing.Point(4, 34);
+            this.tabPage10.Location = new System.Drawing.Point(4, 29);
             this.tabPage10.Name = "tabPage10";
             this.tabPage10.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage10.Size = new System.Drawing.Size(800, 411);
+            this.tabPage10.Size = new System.Drawing.Size(800, 416);
             this.tabPage10.TabIndex = 0;
             this.tabPage10.Text = " Digital data ";
             this.tabPage10.UseVisualStyleBackColor = true;
@@ -1300,7 +1300,7 @@ namespace ModbusSampleBR
             this.label32.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label32.Location = new System.Drawing.Point(183, 326);
             this.label32.Name = "label32";
-            this.label32.Size = new System.Drawing.Size(60, 25);
+            this.label32.Size = new System.Drawing.Size(45, 20);
             this.label32.TabIndex = 53;
             this.label32.Text = "- - - - ";
             // 
@@ -1310,7 +1310,7 @@ namespace ModbusSampleBR
             this.label31.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label31.Location = new System.Drawing.Point(183, 296);
             this.label31.Name = "label31";
-            this.label31.Size = new System.Drawing.Size(60, 25);
+            this.label31.Size = new System.Drawing.Size(45, 20);
             this.label31.TabIndex = 52;
             this.label31.Text = "- - - - ";
             // 
@@ -1320,7 +1320,7 @@ namespace ModbusSampleBR
             this.label30.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label30.Location = new System.Drawing.Point(183, 267);
             this.label30.Name = "label30";
-            this.label30.Size = new System.Drawing.Size(60, 25);
+            this.label30.Size = new System.Drawing.Size(45, 20);
             this.label30.TabIndex = 51;
             this.label30.Text = "- - - - ";
             // 
@@ -1330,7 +1330,7 @@ namespace ModbusSampleBR
             this.label29.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label29.Location = new System.Drawing.Point(183, 237);
             this.label29.Name = "label29";
-            this.label29.Size = new System.Drawing.Size(60, 25);
+            this.label29.Size = new System.Drawing.Size(45, 20);
             this.label29.TabIndex = 50;
             this.label29.Text = "- - - - ";
             // 
@@ -1340,7 +1340,7 @@ namespace ModbusSampleBR
             this.label28.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label28.Location = new System.Drawing.Point(183, 207);
             this.label28.Name = "label28";
-            this.label28.Size = new System.Drawing.Size(60, 25);
+            this.label28.Size = new System.Drawing.Size(45, 20);
             this.label28.TabIndex = 49;
             this.label28.Text = "- - - - ";
             // 
@@ -1350,7 +1350,7 @@ namespace ModbusSampleBR
             this.label27.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label27.Location = new System.Drawing.Point(183, 177);
             this.label27.Name = "label27";
-            this.label27.Size = new System.Drawing.Size(60, 25);
+            this.label27.Size = new System.Drawing.Size(45, 20);
             this.label27.TabIndex = 48;
             this.label27.Text = "- - - - ";
             // 
@@ -1360,7 +1360,7 @@ namespace ModbusSampleBR
             this.label26.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label26.Location = new System.Drawing.Point(183, 147);
             this.label26.Name = "label26";
-            this.label26.Size = new System.Drawing.Size(60, 25);
+            this.label26.Size = new System.Drawing.Size(45, 20);
             this.label26.TabIndex = 47;
             this.label26.Text = "- - - - ";
             // 
@@ -1370,7 +1370,7 @@ namespace ModbusSampleBR
             this.label25.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label25.Location = new System.Drawing.Point(183, 116);
             this.label25.Name = "label25";
-            this.label25.Size = new System.Drawing.Size(60, 25);
+            this.label25.Size = new System.Drawing.Size(45, 20);
             this.label25.TabIndex = 46;
             this.label25.Text = "- - - - ";
             // 
@@ -1380,7 +1380,7 @@ namespace ModbusSampleBR
             this.label24.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label24.Location = new System.Drawing.Point(183, 87);
             this.label24.Name = "label24";
-            this.label24.Size = new System.Drawing.Size(60, 25);
+            this.label24.Size = new System.Drawing.Size(45, 20);
             this.label24.TabIndex = 45;
             this.label24.Text = "- - - - ";
             // 
@@ -1390,7 +1390,7 @@ namespace ModbusSampleBR
             this.label23.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label23.Location = new System.Drawing.Point(183, 56);
             this.label23.Name = "label23";
-            this.label23.Size = new System.Drawing.Size(60, 25);
+            this.label23.Size = new System.Drawing.Size(45, 20);
             this.label23.TabIndex = 44;
             this.label23.Text = "- - - - ";
             // 
@@ -1400,7 +1400,7 @@ namespace ModbusSampleBR
             this.label22.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label22.Location = new System.Drawing.Point(21, 356);
             this.label22.Name = "label22";
-            this.label22.Size = new System.Drawing.Size(80, 25);
+            this.label22.Size = new System.Drawing.Size(66, 20);
             this.label22.TabIndex = 41;
             this.label22.Text = "Data 12";
             // 
@@ -1410,7 +1410,7 @@ namespace ModbusSampleBR
             this.label21.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.Location = new System.Drawing.Point(21, 326);
             this.label21.Name = "label21";
-            this.label21.Size = new System.Drawing.Size(80, 25);
+            this.label21.Size = new System.Drawing.Size(66, 20);
             this.label21.TabIndex = 39;
             this.label21.Text = "Data 11";
             // 
@@ -1420,7 +1420,7 @@ namespace ModbusSampleBR
             this.label20.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label20.Location = new System.Drawing.Point(21, 296);
             this.label20.Name = "label20";
-            this.label20.Size = new System.Drawing.Size(80, 25);
+            this.label20.Size = new System.Drawing.Size(66, 20);
             this.label20.TabIndex = 37;
             this.label20.Text = "Data 10";
             // 
@@ -1430,7 +1430,7 @@ namespace ModbusSampleBR
             this.label19.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.Location = new System.Drawing.Point(21, 266);
             this.label19.Name = "label19";
-            this.label19.Size = new System.Drawing.Size(69, 25);
+            this.label19.Size = new System.Drawing.Size(57, 20);
             this.label19.TabIndex = 35;
             this.label19.Text = "Data 9";
             // 
@@ -1440,7 +1440,7 @@ namespace ModbusSampleBR
             this.label18.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.Location = new System.Drawing.Point(21, 236);
             this.label18.Name = "label18";
-            this.label18.Size = new System.Drawing.Size(69, 25);
+            this.label18.Size = new System.Drawing.Size(57, 20);
             this.label18.TabIndex = 33;
             this.label18.Text = "Data 8";
             // 
@@ -1450,7 +1450,7 @@ namespace ModbusSampleBR
             this.label17.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.Location = new System.Drawing.Point(21, 206);
             this.label17.Name = "label17";
-            this.label17.Size = new System.Drawing.Size(69, 25);
+            this.label17.Size = new System.Drawing.Size(57, 20);
             this.label17.TabIndex = 31;
             this.label17.Text = "Data 7";
             // 
@@ -1460,7 +1460,7 @@ namespace ModbusSampleBR
             this.label16.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.Location = new System.Drawing.Point(21, 176);
             this.label16.Name = "label16";
-            this.label16.Size = new System.Drawing.Size(69, 25);
+            this.label16.Size = new System.Drawing.Size(57, 20);
             this.label16.TabIndex = 29;
             this.label16.Text = "Data 6";
             // 
@@ -1470,7 +1470,7 @@ namespace ModbusSampleBR
             this.label15.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.Location = new System.Drawing.Point(21, 146);
             this.label15.Name = "label15";
-            this.label15.Size = new System.Drawing.Size(69, 25);
+            this.label15.Size = new System.Drawing.Size(57, 20);
             this.label15.TabIndex = 27;
             this.label15.Text = "Data 5";
             // 
@@ -1480,7 +1480,7 @@ namespace ModbusSampleBR
             this.label14.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.Location = new System.Drawing.Point(21, 116);
             this.label14.Name = "label14";
-            this.label14.Size = new System.Drawing.Size(69, 25);
+            this.label14.Size = new System.Drawing.Size(57, 20);
             this.label14.TabIndex = 25;
             this.label14.Text = "Data 4";
             // 
@@ -1490,7 +1490,7 @@ namespace ModbusSampleBR
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label13.Location = new System.Drawing.Point(21, 86);
             this.label13.Name = "label13";
-            this.label13.Size = new System.Drawing.Size(69, 25);
+            this.label13.Size = new System.Drawing.Size(57, 20);
             this.label13.TabIndex = 23;
             this.label13.Text = "Data 3";
             // 
@@ -1500,7 +1500,7 @@ namespace ModbusSampleBR
             this.label11.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label11.Location = new System.Drawing.Point(21, 56);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(69, 25);
+            this.label11.Size = new System.Drawing.Size(57, 20);
             this.label11.TabIndex = 21;
             this.label11.Text = "Data 2";
             // 
@@ -1510,7 +1510,7 @@ namespace ModbusSampleBR
             this.label10.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label10.Location = new System.Drawing.Point(21, 26);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(69, 25);
+            this.label10.Size = new System.Drawing.Size(57, 20);
             this.label10.TabIndex = 19;
             this.label10.Text = "Data 1";
             // 
@@ -1518,7 +1518,7 @@ namespace ModbusSampleBR
             // 
             this.txtDIGsize.Location = new System.Drawing.Point(448, 221);
             this.txtDIGsize.Name = "txtDIGsize";
-            this.txtDIGsize.Size = new System.Drawing.Size(92, 30);
+            this.txtDIGsize.Size = new System.Drawing.Size(92, 26);
             this.txtDIGsize.TabIndex = 18;
             this.txtDIGsize.Text = "12";
             this.txtDIGsize.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1530,7 +1530,7 @@ namespace ModbusSampleBR
             this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label8.Location = new System.Drawing.Point(385, 221);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(51, 25);
+            this.label8.Size = new System.Drawing.Size(40, 20);
             this.label8.TabIndex = 17;
             this.label8.Text = "Size";
             // 
@@ -1538,7 +1538,7 @@ namespace ModbusSampleBR
             // 
             this.txtDIGoffset.Location = new System.Drawing.Point(448, 157);
             this.txtDIGoffset.Name = "txtDIGoffset";
-            this.txtDIGoffset.Size = new System.Drawing.Size(92, 30);
+            this.txtDIGoffset.Size = new System.Drawing.Size(92, 26);
             this.txtDIGoffset.TabIndex = 16;
             this.txtDIGoffset.Text = "0";
             this.txtDIGoffset.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1550,7 +1550,7 @@ namespace ModbusSampleBR
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(383, 157);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(64, 25);
+            this.label3.Size = new System.Drawing.Size(53, 20);
             this.label3.TabIndex = 15;
             this.label3.Text = "Offset";
             // 
@@ -1565,7 +1565,7 @@ namespace ModbusSampleBR
             this.lineShape4,
             this.lineShape2,
             this.lineShape1});
-            this.shapeContainer1.Size = new System.Drawing.Size(794, 405);
+            this.shapeContainer1.Size = new System.Drawing.Size(794, 410);
             this.shapeContainer1.TabIndex = 43;
             this.shapeContainer1.TabStop = false;
             // 
@@ -1620,7 +1620,7 @@ namespace ModbusSampleBR
             // 
             // tabPage11
             // 
-            this.tabPage11.BackColor = System.Drawing.Color.Transparent;
+            this.tabPage11.BackColor = System.Drawing.SystemColors.Control;
             this.tabPage11.Controls.Add(this.txtANAdat4);
             this.tabPage11.Controls.Add(this.txtANAdat3);
             this.tabPage11.Controls.Add(this.txtANAdat2);
@@ -1640,10 +1640,10 @@ namespace ModbusSampleBR
             this.tabPage11.Controls.Add(this.btnANAread);
             this.tabPage11.Controls.Add(this.btnANAwrite);
             this.tabPage11.Controls.Add(this.pictureBox6);
-            this.tabPage11.Location = new System.Drawing.Point(4, 34);
+            this.tabPage11.Location = new System.Drawing.Point(4, 29);
             this.tabPage11.Name = "tabPage11";
             this.tabPage11.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage11.Size = new System.Drawing.Size(800, 411);
+            this.tabPage11.Size = new System.Drawing.Size(800, 416);
             this.tabPage11.TabIndex = 1;
             this.tabPage11.Text = " Analog data ";
             this.tabPage11.UseVisualStyleBackColor = true;
@@ -1652,7 +1652,7 @@ namespace ModbusSampleBR
             // 
             this.txtANAdat4.Location = new System.Drawing.Point(94, 114);
             this.txtANAdat4.Name = "txtANAdat4";
-            this.txtANAdat4.Size = new System.Drawing.Size(90, 30);
+            this.txtANAdat4.Size = new System.Drawing.Size(90, 26);
             this.txtANAdat4.TabIndex = 90;
             this.txtANAdat4.Text = "0";
             this.txtANAdat4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1662,7 +1662,7 @@ namespace ModbusSampleBR
             // 
             this.txtANAdat3.Location = new System.Drawing.Point(94, 84);
             this.txtANAdat3.Name = "txtANAdat3";
-            this.txtANAdat3.Size = new System.Drawing.Size(90, 30);
+            this.txtANAdat3.Size = new System.Drawing.Size(90, 26);
             this.txtANAdat3.TabIndex = 89;
             this.txtANAdat3.Text = "0";
             this.txtANAdat3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1672,7 +1672,7 @@ namespace ModbusSampleBR
             // 
             this.txtANAdat2.Location = new System.Drawing.Point(94, 54);
             this.txtANAdat2.Name = "txtANAdat2";
-            this.txtANAdat2.Size = new System.Drawing.Size(90, 30);
+            this.txtANAdat2.Size = new System.Drawing.Size(90, 26);
             this.txtANAdat2.TabIndex = 88;
             this.txtANAdat2.Text = "0";
             this.txtANAdat2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1682,7 +1682,7 @@ namespace ModbusSampleBR
             // 
             this.txtANAdat1.Location = new System.Drawing.Point(94, 24);
             this.txtANAdat1.Name = "txtANAdat1";
-            this.txtANAdat1.Size = new System.Drawing.Size(90, 30);
+            this.txtANAdat1.Size = new System.Drawing.Size(90, 26);
             this.txtANAdat1.TabIndex = 86;
             this.txtANAdat1.Text = "0";
             this.txtANAdat1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1694,7 +1694,7 @@ namespace ModbusSampleBR
             this.label59.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label59.Location = new System.Drawing.Point(183, 116);
             this.label59.Name = "label59";
-            this.label59.Size = new System.Drawing.Size(60, 25);
+            this.label59.Size = new System.Drawing.Size(45, 20);
             this.label59.TabIndex = 80;
             this.label59.Text = "- - - - ";
             // 
@@ -1704,7 +1704,7 @@ namespace ModbusSampleBR
             this.label60.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label60.Location = new System.Drawing.Point(183, 87);
             this.label60.Name = "label60";
-            this.label60.Size = new System.Drawing.Size(60, 25);
+            this.label60.Size = new System.Drawing.Size(45, 20);
             this.label60.TabIndex = 79;
             this.label60.Text = "- - - - ";
             // 
@@ -1714,7 +1714,7 @@ namespace ModbusSampleBR
             this.label61.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label61.Location = new System.Drawing.Point(183, 56);
             this.label61.Name = "label61";
-            this.label61.Size = new System.Drawing.Size(60, 25);
+            this.label61.Size = new System.Drawing.Size(45, 20);
             this.label61.TabIndex = 78;
             this.label61.Text = "- - - - ";
             // 
@@ -1724,7 +1724,7 @@ namespace ModbusSampleBR
             this.label62.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label62.Location = new System.Drawing.Point(21, 116);
             this.label62.Name = "label62";
-            this.label62.Size = new System.Drawing.Size(69, 25);
+            this.label62.Size = new System.Drawing.Size(57, 20);
             this.label62.TabIndex = 77;
             this.label62.Text = "Data 4";
             // 
@@ -1734,7 +1734,7 @@ namespace ModbusSampleBR
             this.label63.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label63.Location = new System.Drawing.Point(21, 86);
             this.label63.Name = "label63";
-            this.label63.Size = new System.Drawing.Size(69, 25);
+            this.label63.Size = new System.Drawing.Size(57, 20);
             this.label63.TabIndex = 76;
             this.label63.Text = "Data 3";
             // 
@@ -1744,7 +1744,7 @@ namespace ModbusSampleBR
             this.label64.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label64.Location = new System.Drawing.Point(21, 56);
             this.label64.Name = "label64";
-            this.label64.Size = new System.Drawing.Size(69, 25);
+            this.label64.Size = new System.Drawing.Size(57, 20);
             this.label64.TabIndex = 75;
             this.label64.Text = "Data 2";
             // 
@@ -1754,7 +1754,7 @@ namespace ModbusSampleBR
             this.label65.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label65.Location = new System.Drawing.Point(21, 26);
             this.label65.Name = "label65";
-            this.label65.Size = new System.Drawing.Size(69, 25);
+            this.label65.Size = new System.Drawing.Size(57, 20);
             this.label65.TabIndex = 74;
             this.label65.Text = "Data 1";
             // 
@@ -1762,7 +1762,7 @@ namespace ModbusSampleBR
             // 
             this.txtANAsize.Location = new System.Drawing.Point(447, 219);
             this.txtANAsize.Name = "txtANAsize";
-            this.txtANAsize.Size = new System.Drawing.Size(92, 30);
+            this.txtANAsize.Size = new System.Drawing.Size(92, 26);
             this.txtANAsize.TabIndex = 73;
             this.txtANAsize.Text = "4";
             this.txtANAsize.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1774,7 +1774,7 @@ namespace ModbusSampleBR
             this.label57.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label57.Location = new System.Drawing.Point(385, 221);
             this.label57.Name = "label57";
-            this.label57.Size = new System.Drawing.Size(51, 25);
+            this.label57.Size = new System.Drawing.Size(40, 20);
             this.label57.TabIndex = 72;
             this.label57.Text = "Size";
             // 
@@ -1782,7 +1782,7 @@ namespace ModbusSampleBR
             // 
             this.txtANAoffset.Location = new System.Drawing.Point(447, 155);
             this.txtANAoffset.Name = "txtANAoffset";
-            this.txtANAoffset.Size = new System.Drawing.Size(92, 30);
+            this.txtANAoffset.Size = new System.Drawing.Size(92, 26);
             this.txtANAoffset.TabIndex = 71;
             this.txtANAoffset.Text = "0";
             this.txtANAoffset.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1794,7 +1794,7 @@ namespace ModbusSampleBR
             this.label58.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label58.Location = new System.Drawing.Point(383, 157);
             this.label58.Name = "label58";
-            this.label58.Size = new System.Drawing.Size(64, 25);
+            this.label58.Size = new System.Drawing.Size(53, 20);
             this.label58.TabIndex = 70;
             this.label58.Text = "Offset";
             // 
@@ -1807,7 +1807,7 @@ namespace ModbusSampleBR
             this.lineShape13,
             this.lineShape12,
             this.lineShape11});
-            this.shapeContainer3.Size = new System.Drawing.Size(794, 405);
+            this.shapeContainer3.Size = new System.Drawing.Size(794, 410);
             this.shapeContainer3.TabIndex = 85;
             this.shapeContainer3.TabStop = false;
             // 
@@ -1872,7 +1872,7 @@ namespace ModbusSampleBR
             // 
             // tabPage12
             // 
-            this.tabPage12.BackColor = System.Drawing.Color.Transparent;
+            this.tabPage12.BackColor = System.Drawing.SystemColors.Control;
             this.tabPage12.Controls.Add(this.pictureBox7);
             this.tabPage12.Controls.Add(this.txtREGdat2);
             this.tabPage12.Controls.Add(this.txtREGdat1);
@@ -1885,9 +1885,9 @@ namespace ModbusSampleBR
             this.tabPage12.Controls.Add(this.shapeContainer4);
             this.tabPage12.Controls.Add(this.btnREGread);
             this.tabPage12.Controls.Add(this.btnREGwrite);
-            this.tabPage12.Location = new System.Drawing.Point(4, 34);
+            this.tabPage12.Location = new System.Drawing.Point(4, 29);
             this.tabPage12.Name = "tabPage12";
-            this.tabPage12.Size = new System.Drawing.Size(800, 411);
+            this.tabPage12.Size = new System.Drawing.Size(800, 416);
             this.tabPage12.TabIndex = 2;
             this.tabPage12.Text = " Module Register ";
             this.tabPage12.UseVisualStyleBackColor = true;
@@ -1905,7 +1905,7 @@ namespace ModbusSampleBR
             // 
             this.txtREGdat2.Location = new System.Drawing.Point(108, 84);
             this.txtREGdat2.Name = "txtREGdat2";
-            this.txtREGdat2.Size = new System.Drawing.Size(90, 30);
+            this.txtREGdat2.Size = new System.Drawing.Size(90, 26);
             this.txtREGdat2.TabIndex = 100;
             this.txtREGdat2.Text = "0";
             this.txtREGdat2.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1915,7 +1915,7 @@ namespace ModbusSampleBR
             // 
             this.txtREGdat1.Location = new System.Drawing.Point(108, 54);
             this.txtREGdat1.Name = "txtREGdat1";
-            this.txtREGdat1.Size = new System.Drawing.Size(90, 30);
+            this.txtREGdat1.Size = new System.Drawing.Size(90, 26);
             this.txtREGdat1.TabIndex = 99;
             this.txtREGdat1.Text = "0";
             this.txtREGdat1.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1925,7 +1925,7 @@ namespace ModbusSampleBR
             // 
             this.txtREGregister.Location = new System.Drawing.Point(108, 24);
             this.txtREGregister.Name = "txtREGregister";
-            this.txtREGregister.Size = new System.Drawing.Size(90, 30);
+            this.txtREGregister.Size = new System.Drawing.Size(90, 26);
             this.txtREGregister.TabIndex = 98;
             this.txtREGregister.Text = "0";
             this.txtREGregister.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
@@ -1937,7 +1937,7 @@ namespace ModbusSampleBR
             this.label67.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label67.Location = new System.Drawing.Point(203, 87);
             this.label67.Name = "label67";
-            this.label67.Size = new System.Drawing.Size(60, 25);
+            this.label67.Size = new System.Drawing.Size(45, 20);
             this.label67.TabIndex = 96;
             this.label67.Text = "- - - - ";
             // 
@@ -1947,7 +1947,7 @@ namespace ModbusSampleBR
             this.label68.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label68.Location = new System.Drawing.Point(203, 56);
             this.label68.Name = "label68";
-            this.label68.Size = new System.Drawing.Size(60, 25);
+            this.label68.Size = new System.Drawing.Size(45, 20);
             this.label68.TabIndex = 95;
             this.label68.Text = "- - - - ";
             // 
@@ -1957,7 +1957,7 @@ namespace ModbusSampleBR
             this.label70.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label70.Location = new System.Drawing.Point(21, 86);
             this.label70.Name = "label70";
-            this.label70.Size = new System.Drawing.Size(69, 25);
+            this.label70.Size = new System.Drawing.Size(57, 20);
             this.label70.TabIndex = 93;
             this.label70.Text = "Data 2";
             // 
@@ -1967,7 +1967,7 @@ namespace ModbusSampleBR
             this.label71.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label71.Location = new System.Drawing.Point(21, 56);
             this.label71.Name = "label71";
-            this.label71.Size = new System.Drawing.Size(69, 25);
+            this.label71.Size = new System.Drawing.Size(57, 20);
             this.label71.TabIndex = 92;
             this.label71.Text = "Data 1";
             // 
@@ -1977,7 +1977,7 @@ namespace ModbusSampleBR
             this.label72.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label72.Location = new System.Drawing.Point(21, 26);
             this.label72.Name = "label72";
-            this.label72.Size = new System.Drawing.Size(83, 25);
+            this.label72.Size = new System.Drawing.Size(69, 20);
             this.label72.TabIndex = 91;
             this.label72.Text = "Register";
             // 
@@ -1989,7 +1989,7 @@ namespace ModbusSampleBR
             this.shapeContainer4.Shapes.AddRange(new Microsoft.VisualBasic.PowerPacks.Shape[] {
             this.lineShape15,
             this.lineShape14});
-            this.shapeContainer4.Size = new System.Drawing.Size(800, 411);
+            this.shapeContainer4.Size = new System.Drawing.Size(800, 416);
             this.shapeContainer4.TabIndex = 101;
             this.shapeContainer4.TabStop = false;
             // 
@@ -2083,7 +2083,7 @@ namespace ModbusSampleBR
             this.label12.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label12.Location = new System.Drawing.Point(602, 38);
             this.label12.Name = "label12";
-            this.label12.Size = new System.Drawing.Size(79, 20);
+            this.label12.Size = new System.Drawing.Size(65, 17);
             this.label12.TabIndex = 12;
             this.label12.Text = "Firmware";
             // 
@@ -2113,7 +2113,7 @@ namespace ModbusSampleBR
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(333, 81);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(127, 20);
+            this.label6.Size = new System.Drawing.Size(107, 17);
             this.label6.TabIndex = 9;
             this.label6.Text = "Function Modell";
             // 
@@ -2123,7 +2123,7 @@ namespace ModbusSampleBR
             this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label7.Location = new System.Drawing.Point(333, 60);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(140, 20);
+            this.label7.Size = new System.Drawing.Size(118, 17);
             this.label7.TabIndex = 8;
             this.label7.Text = "Hardware Variant";
             // 
@@ -2143,7 +2143,7 @@ namespace ModbusSampleBR
             this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.Location = new System.Drawing.Point(333, 38);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(104, 20);
+            this.label9.Size = new System.Drawing.Size(86, 17);
             this.label9.TabIndex = 6;
             this.label9.Text = "Hardware ID";
             // 
@@ -2163,7 +2163,7 @@ namespace ModbusSampleBR
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.Location = new System.Drawing.Point(61, 81);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(52, 20);
+            this.label5.Size = new System.Drawing.Size(44, 17);
             this.label5.TabIndex = 4;
             this.label5.Text = "Serial";
             // 
@@ -2183,7 +2183,7 @@ namespace ModbusSampleBR
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.Location = new System.Drawing.Point(61, 60);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(85, 20);
+            this.label4.Size = new System.Drawing.Size(71, 17);
             this.label4.TabIndex = 2;
             this.label4.Text = "Module ID";
             // 
@@ -2203,17 +2203,17 @@ namespace ModbusSampleBR
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.Location = new System.Drawing.Point(61, 38);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(57, 20);
+            this.label2.Size = new System.Drawing.Size(48, 17);
             this.label2.TabIndex = 0;
             this.label2.Text = "Status";
             // 
             // lstModules
             // 
             this.lstModules.FormattingEnabled = true;
-            this.lstModules.ItemHeight = 20;
+            this.lstModules.ItemHeight = 17;
             this.lstModules.Location = new System.Drawing.Point(6, 29);
             this.lstModules.Name = "lstModules";
-            this.lstModules.Size = new System.Drawing.Size(161, 524);
+            this.lstModules.Size = new System.Drawing.Size(161, 531);
             this.lstModules.TabIndex = 0;
             this.lstModules.SelectedIndexChanged += new System.EventHandler(this.lstModules_SelectedIndexChanged);
             // 
@@ -2249,10 +2249,10 @@ namespace ModbusSampleBR
             this.tabPage1.Controls.Add(this.groupBox7);
             this.tabPage1.Controls.Add(this.groupBox4);
             this.tabPage1.Controls.Add(this.groupBox2);
-            this.tabPage1.Location = new System.Drawing.Point(4, 31);
+            this.tabPage1.Location = new System.Drawing.Point(4, 26);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(967, 506);
+            this.tabPage1.Size = new System.Drawing.Size(967, 511);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Communication";
             this.tabPage1.UseVisualStyleBackColor = true;
@@ -2293,7 +2293,7 @@ namespace ModbusSampleBR
             this.label108.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label108.Location = new System.Drawing.Point(29, 178);
             this.label108.Name = "label108";
-            this.label108.Size = new System.Drawing.Size(132, 20);
+            this.label108.Size = new System.Drawing.Size(109, 17);
             this.label108.TabIndex = 54;
             this.label108.Text = "Frame collisions";
             // 
@@ -2323,7 +2323,7 @@ namespace ModbusSampleBR
             this.label96.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label96.Location = new System.Drawing.Point(29, 144);
             this.label96.Name = "label96";
-            this.label96.Size = new System.Drawing.Size(148, 20);
+            this.label96.Size = new System.Drawing.Size(122, 17);
             this.label96.TabIndex = 51;
             this.label96.Text = "Frames CRC error";
             // 
@@ -2333,7 +2333,7 @@ namespace ModbusSampleBR
             this.label97.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label97.Location = new System.Drawing.Point(29, 109);
             this.label97.Name = "label97";
-            this.label97.Size = new System.Drawing.Size(134, 20);
+            this.label97.Size = new System.Drawing.Size(112, 17);
             this.label97.TabIndex = 50;
             this.label97.Text = "Frames oversize";
             // 
@@ -2363,7 +2363,7 @@ namespace ModbusSampleBR
             this.label105.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label105.Location = new System.Drawing.Point(29, 75);
             this.label105.Name = "label105";
-            this.label105.Size = new System.Drawing.Size(98, 20);
+            this.label105.Size = new System.Drawing.Size(81, 17);
             this.label105.TabIndex = 29;
             this.label105.Text = "Frames lost";
             // 
@@ -2373,7 +2373,7 @@ namespace ModbusSampleBR
             this.label106.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label106.Location = new System.Drawing.Point(29, 40);
             this.label106.Name = "label106";
-            this.label106.Size = new System.Drawing.Size(118, 20);
+            this.label106.Size = new System.Drawing.Size(100, 17);
             this.label106.TabIndex = 27;
             this.label106.Text = "Frame counter";
             // 
@@ -2421,7 +2421,7 @@ namespace ModbusSampleBR
             this.label99.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label99.Location = new System.Drawing.Point(33, 144);
             this.label99.Name = "label99";
-            this.label99.Size = new System.Drawing.Size(50, 20);
+            this.label99.Size = new System.Drawing.Size(43, 17);
             this.label99.TabIndex = 51;
             this.label99.Text = "Mode";
             // 
@@ -2431,7 +2431,7 @@ namespace ModbusSampleBR
             this.label100.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label100.Location = new System.Drawing.Point(33, 109);
             this.label100.Name = "label100";
-            this.label100.Size = new System.Drawing.Size(57, 20);
+            this.label100.Size = new System.Drawing.Size(48, 17);
             this.label100.TabIndex = 50;
             this.label100.Text = "Status";
             // 
@@ -2461,7 +2461,7 @@ namespace ModbusSampleBR
             this.label92.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label92.Location = new System.Drawing.Point(33, 75);
             this.label92.Name = "label92";
-            this.label92.Size = new System.Drawing.Size(69, 20);
+            this.label92.Size = new System.Drawing.Size(59, 17);
             this.label92.TabIndex = 29;
             this.label92.Text = "Elapsed";
             // 
@@ -2471,7 +2471,7 @@ namespace ModbusSampleBR
             this.label95.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label95.Location = new System.Drawing.Point(33, 40);
             this.label95.Name = "label95";
-            this.label95.Size = new System.Drawing.Size(83, 20);
+            this.label95.Size = new System.Drawing.Size(72, 17);
             this.label95.TabIndex = 27;
             this.label95.Text = "Threshold";
             // 
@@ -2572,7 +2572,7 @@ namespace ModbusSampleBR
             this.label74.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label74.Location = new System.Drawing.Point(33, 108);
             this.label74.Name = "label74";
-            this.label74.Size = new System.Drawing.Size(74, 20);
+            this.label74.Size = new System.Drawing.Size(63, 17);
             this.label74.TabIndex = 32;
             this.label74.Text = "Gateway";
             // 
@@ -2581,7 +2581,7 @@ namespace ModbusSampleBR
             this.txtCOMgateway.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCOMgateway.Location = new System.Drawing.Point(193, 105);
             this.txtCOMgateway.Name = "txtCOMgateway";
-            this.txtCOMgateway.Size = new System.Drawing.Size(200, 27);
+            this.txtCOMgateway.Size = new System.Drawing.Size(200, 23);
             this.txtCOMgateway.TabIndex = 31;
             this.txtCOMgateway.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -2591,7 +2591,7 @@ namespace ModbusSampleBR
             this.label73.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label73.Location = new System.Drawing.Point(33, 73);
             this.label73.Name = "label73";
-            this.label73.Size = new System.Drawing.Size(106, 20);
+            this.label73.Size = new System.Drawing.Size(90, 17);
             this.label73.TabIndex = 30;
             this.label73.Text = "Subnet Mask";
             // 
@@ -2600,7 +2600,7 @@ namespace ModbusSampleBR
             this.txtCOMsubnet.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCOMsubnet.Location = new System.Drawing.Point(193, 70);
             this.txtCOMsubnet.Name = "txtCOMsubnet";
-            this.txtCOMsubnet.Size = new System.Drawing.Size(200, 27);
+            this.txtCOMsubnet.Size = new System.Drawing.Size(200, 23);
             this.txtCOMsubnet.TabIndex = 29;
             this.txtCOMsubnet.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -2610,7 +2610,7 @@ namespace ModbusSampleBR
             this.label69.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label69.Location = new System.Drawing.Point(32, 39);
             this.label69.Name = "label69";
-            this.label69.Size = new System.Drawing.Size(137, 20);
+            this.label69.Size = new System.Drawing.Size(114, 17);
             this.label69.TabIndex = 28;
             this.label69.Text = "IP Address Flash";
             // 
@@ -2619,7 +2619,7 @@ namespace ModbusSampleBR
             this.txtCOMip_flash.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtCOMip_flash.Location = new System.Drawing.Point(192, 36);
             this.txtCOMip_flash.Name = "txtCOMip_flash";
-            this.txtCOMip_flash.Size = new System.Drawing.Size(200, 27);
+            this.txtCOMip_flash.Size = new System.Drawing.Size(200, 23);
             this.txtCOMip_flash.TabIndex = 27;
             this.txtCOMip_flash.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
@@ -2673,7 +2673,7 @@ namespace ModbusSampleBR
             this.label77.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label77.Location = new System.Drawing.Point(29, 174);
             this.label77.Name = "label77";
-            this.label77.Size = new System.Drawing.Size(73, 20);
+            this.label77.Size = new System.Drawing.Size(62, 17);
             this.label77.TabIndex = 38;
             this.label77.Text = "Duration";
             // 
@@ -2703,7 +2703,7 @@ namespace ModbusSampleBR
             this.label78.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label78.Location = new System.Drawing.Point(29, 136);
             this.label78.Name = "label78";
-            this.label78.Size = new System.Drawing.Size(65, 20);
+            this.label78.Size = new System.Drawing.Size(54, 17);
             this.label78.TabIndex = 40;
             this.label78.Text = "IP MTU";
             // 
@@ -2733,7 +2733,7 @@ namespace ModbusSampleBR
             this.label75.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label75.Location = new System.Drawing.Point(29, 69);
             this.label75.Name = "label75";
-            this.label75.Size = new System.Drawing.Size(113, 20);
+            this.label75.Size = new System.Drawing.Size(93, 17);
             this.label75.TabIndex = 25;
             this.label75.Text = "MAC Address";
             // 
@@ -2743,7 +2743,7 @@ namespace ModbusSampleBR
             this.label66.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label66.Location = new System.Drawing.Point(29, 34);
             this.label66.Name = "label66";
-            this.label66.Size = new System.Drawing.Size(91, 20);
+            this.label66.Size = new System.Drawing.Size(76, 17);
             this.label66.TabIndex = 23;
             this.label66.Text = "IP Address";
             // 
@@ -2753,7 +2753,7 @@ namespace ModbusSampleBR
             this.label76.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label76.Location = new System.Drawing.Point(29, 101);
             this.label76.Name = "label76";
-            this.label76.Size = new System.Drawing.Size(40, 20);
+            this.label76.Size = new System.Drawing.Size(34, 17);
             this.label76.TabIndex = 36;
             this.label76.Text = "Port";
             // 
@@ -2763,9 +2763,9 @@ namespace ModbusSampleBR
             this.tabPage3.Controls.Add(this.groupBox10);
             this.tabPage3.Controls.Add(this.groupBox9);
             this.tabPage3.Controls.Add(this.groupBox6);
-            this.tabPage3.Location = new System.Drawing.Point(4, 31);
+            this.tabPage3.Location = new System.Drawing.Point(4, 26);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(967, 506);
+            this.tabPage3.Size = new System.Drawing.Size(967, 511);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Controller Statistics 1";
             this.tabPage3.UseVisualStyleBackColor = true;
@@ -2840,7 +2840,7 @@ namespace ModbusSampleBR
             this.label86.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label86.Location = new System.Drawing.Point(250, 73);
             this.label86.Name = "label86";
-            this.label86.Size = new System.Drawing.Size(123, 20);
+            this.label86.Size = new System.Drawing.Size(104, 17);
             this.label86.TabIndex = 43;
             this.label86.Text = "Controller error";
             // 
@@ -2860,7 +2860,7 @@ namespace ModbusSampleBR
             this.label87.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label87.Location = new System.Drawing.Point(250, 37);
             this.label87.Name = "label87";
-            this.label87.Size = new System.Drawing.Size(133, 20);
+            this.label87.Size = new System.Drawing.Size(111, 17);
             this.label87.TabIndex = 41;
             this.label87.Text = "Controller status";
             // 
@@ -2890,7 +2890,7 @@ namespace ModbusSampleBR
             this.label83.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label83.Location = new System.Drawing.Point(17, 142);
             this.label83.Name = "label83";
-            this.label83.Size = new System.Drawing.Size(132, 20);
+            this.label83.Size = new System.Drawing.Size(112, 17);
             this.label83.TabIndex = 51;
             this.label83.Text = "Telnet password";
             // 
@@ -2900,7 +2900,7 @@ namespace ModbusSampleBR
             this.label85.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label85.Location = new System.Drawing.Point(250, 107);
             this.label85.Name = "label85";
-            this.label85.Size = new System.Drawing.Size(125, 20);
+            this.label85.Size = new System.Drawing.Size(107, 17);
             this.label85.TabIndex = 39;
             this.label85.Text = "Config changed";
             // 
@@ -2910,7 +2910,7 @@ namespace ModbusSampleBR
             this.label84.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label84.Location = new System.Drawing.Point(17, 107);
             this.label84.Name = "label84";
-            this.label84.Size = new System.Drawing.Size(129, 20);
+            this.label84.Size = new System.Drawing.Size(110, 17);
             this.label84.TabIndex = 50;
             this.label84.Text = "Boundary check";
             // 
@@ -2920,7 +2920,7 @@ namespace ModbusSampleBR
             this.label81.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label81.Location = new System.Drawing.Point(17, 71);
             this.label81.Name = "label81";
-            this.label81.Size = new System.Drawing.Size(75, 20);
+            this.label81.Size = new System.Drawing.Size(64, 17);
             this.label81.TabIndex = 49;
             this.label81.Text = "Init delay";
             // 
@@ -2930,7 +2930,7 @@ namespace ModbusSampleBR
             this.label82.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label82.Location = new System.Drawing.Point(17, 37);
             this.label82.Name = "label82";
-            this.label82.Size = new System.Drawing.Size(71, 20);
+            this.label82.Size = new System.Drawing.Size(61, 17);
             this.label82.TabIndex = 48;
             this.label82.Text = "Node Nr";
             // 
@@ -2975,7 +2975,7 @@ namespace ModbusSampleBR
             this.label127.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label127.Location = new System.Drawing.Point(26, 404);
             this.label127.Name = "label127";
-            this.label127.Size = new System.Drawing.Size(138, 20);
+            this.label127.Size = new System.Drawing.Size(115, 17);
             this.label127.TabIndex = 118;
             this.label127.Text = "X2X register size";
             // 
@@ -2985,7 +2985,7 @@ namespace ModbusSampleBR
             this.label128.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label128.Location = new System.Drawing.Point(26, 369);
             this.label128.Name = "label128";
-            this.label128.Size = new System.Drawing.Size(148, 20);
+            this.label128.Size = new System.Drawing.Size(125, 17);
             this.label128.TabIndex = 117;
             this.label128.Text = "X2X register count";
             // 
@@ -2995,7 +2995,7 @@ namespace ModbusSampleBR
             this.label129.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label129.Location = new System.Drawing.Point(26, 334);
             this.label129.Name = "label129";
-            this.label129.Size = new System.Drawing.Size(108, 20);
+            this.label129.Size = new System.Drawing.Size(90, 17);
             this.label129.TabIndex = 116;
             this.label129.Text = "Register size";
             // 
@@ -3005,7 +3005,7 @@ namespace ModbusSampleBR
             this.label130.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label130.Location = new System.Drawing.Point(26, 299);
             this.label130.Name = "label130";
-            this.label130.Size = new System.Drawing.Size(118, 20);
+            this.label130.Size = new System.Drawing.Size(100, 17);
             this.label130.TabIndex = 115;
             this.label130.Text = "Register count";
             // 
@@ -3045,7 +3045,7 @@ namespace ModbusSampleBR
             this.label126.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label126.Location = new System.Drawing.Point(26, 226);
             this.label126.Name = "label126";
-            this.label126.Size = new System.Drawing.Size(157, 20);
+            this.label126.Size = new System.Drawing.Size(132, 17);
             this.label126.TabIndex = 111;
             this.label126.Text = "Output register size";
             // 
@@ -3085,7 +3085,7 @@ namespace ModbusSampleBR
             this.label122.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label122.Location = new System.Drawing.Point(26, 191);
             this.label122.Name = "label122";
-            this.label122.Size = new System.Drawing.Size(167, 20);
+            this.label122.Size = new System.Drawing.Size(142, 17);
             this.label122.TabIndex = 107;
             this.label122.Text = "Output register count";
             // 
@@ -3125,7 +3125,7 @@ namespace ModbusSampleBR
             this.label118.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label118.Location = new System.Drawing.Point(26, 156);
             this.label118.Name = "label118";
-            this.label118.Size = new System.Drawing.Size(143, 20);
+            this.label118.Size = new System.Drawing.Size(120, 17);
             this.label118.TabIndex = 103;
             this.label118.Text = "Input register size";
             // 
@@ -3135,7 +3135,7 @@ namespace ModbusSampleBR
             this.label113.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label113.Location = new System.Drawing.Point(224, 267);
             this.label113.Name = "label113";
-            this.label113.Size = new System.Drawing.Size(57, 20);
+            this.label113.Size = new System.Drawing.Size(48, 17);
             this.label113.TabIndex = 102;
             this.label113.Text = "Status";
             // 
@@ -3165,7 +3165,7 @@ namespace ModbusSampleBR
             this.label112.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label112.Location = new System.Drawing.Point(26, 37);
             this.label112.Name = "label112";
-            this.label112.Size = new System.Drawing.Size(155, 20);
+            this.label112.Size = new System.Drawing.Size(131, 17);
             this.label112.TabIndex = 99;
             this.label112.Text = "Number of modules";
             // 
@@ -3175,7 +3175,7 @@ namespace ModbusSampleBR
             this.label88.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label88.Location = new System.Drawing.Point(338, 90);
             this.label88.Name = "label88";
-            this.label88.Size = new System.Drawing.Size(57, 20);
+            this.label88.Size = new System.Drawing.Size(47, 17);
             this.label88.TabIndex = 98;
             this.label88.Text = "Digital";
             // 
@@ -3195,7 +3195,7 @@ namespace ModbusSampleBR
             this.label102.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label102.Location = new System.Drawing.Point(226, 90);
             this.label102.Name = "label102";
-            this.label102.Size = new System.Drawing.Size(60, 20);
+            this.label102.Size = new System.Drawing.Size(52, 17);
             this.label102.TabIndex = 96;
             this.label102.Text = "Analog";
             // 
@@ -3215,7 +3215,7 @@ namespace ModbusSampleBR
             this.label107.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label107.Location = new System.Drawing.Point(26, 119);
             this.label107.Name = "label107";
-            this.label107.Size = new System.Drawing.Size(153, 20);
+            this.label107.Size = new System.Drawing.Size(130, 17);
             this.label107.TabIndex = 94;
             this.label107.Text = "Input register count";
             // 
@@ -3264,7 +3264,7 @@ namespace ModbusSampleBR
             this.label89.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label89.Location = new System.Drawing.Point(17, 37);
             this.label89.Name = "label89";
-            this.label89.Size = new System.Drawing.Size(144, 20);
+            this.label89.Size = new System.Drawing.Size(120, 17);
             this.label89.TabIndex = 86;
             this.label89.Text = "Number of Clients";
             // 
@@ -3274,7 +3274,7 @@ namespace ModbusSampleBR
             this.label111.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label111.Location = new System.Drawing.Point(373, 90);
             this.label111.Name = "label111";
-            this.label111.Size = new System.Drawing.Size(50, 20);
+            this.label111.Size = new System.Drawing.Size(42, 17);
             this.label111.TabIndex = 85;
             this.label111.Text = "Local";
             // 
@@ -3304,7 +3304,7 @@ namespace ModbusSampleBR
             this.label110.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label110.Location = new System.Drawing.Point(17, 261);
             this.label110.Name = "label110";
-            this.label110.Size = new System.Drawing.Size(155, 20);
+            this.label110.Size = new System.Drawing.Size(129, 17);
             this.label110.TabIndex = 82;
             this.label110.Text = "Min. command time";
             // 
@@ -3334,7 +3334,7 @@ namespace ModbusSampleBR
             this.label101.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label101.Location = new System.Drawing.Point(17, 226);
             this.label101.Name = "label101";
-            this.label101.Size = new System.Drawing.Size(159, 20);
+            this.label101.Size = new System.Drawing.Size(132, 17);
             this.label101.TabIndex = 79;
             this.label101.Text = "Max. command time";
             // 
@@ -3364,7 +3364,7 @@ namespace ModbusSampleBR
             this.label104.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label104.Location = new System.Drawing.Point(17, 191);
             this.label104.Name = "label104";
-            this.label104.Size = new System.Drawing.Size(208, 20);
+            this.label104.Size = new System.Drawing.Size(176, 17);
             this.label104.TabIndex = 76;
             this.label104.Text = "Protocol Fragment counter";
             // 
@@ -3394,7 +3394,7 @@ namespace ModbusSampleBR
             this.label98.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label98.Location = new System.Drawing.Point(17, 156);
             this.label98.Name = "label98";
-            this.label98.Size = new System.Drawing.Size(132, 20);
+            this.label98.Size = new System.Drawing.Size(112, 17);
             this.label98.TabIndex = 73;
             this.label98.Text = "Protocol counter";
             // 
@@ -3414,7 +3414,7 @@ namespace ModbusSampleBR
             this.label94.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label94.Location = new System.Drawing.Point(260, 90);
             this.label94.Name = "label94";
-            this.label94.Size = new System.Drawing.Size(57, 20);
+            this.label94.Size = new System.Drawing.Size(49, 17);
             this.label94.TabIndex = 71;
             this.label94.Text = "Global";
             // 
@@ -3434,7 +3434,7 @@ namespace ModbusSampleBR
             this.label93.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label93.Location = new System.Drawing.Point(17, 121);
             this.label93.Name = "label93";
-            this.label93.Size = new System.Drawing.Size(140, 20);
+            this.label93.Size = new System.Drawing.Size(120, 17);
             this.label93.TabIndex = 69;
             this.label93.Text = "Telegram counter";
             // 
@@ -3442,9 +3442,9 @@ namespace ModbusSampleBR
             // 
             this.tabPage7.Controls.Add(this.groupBox12);
             this.tabPage7.Controls.Add(this.groupBox11);
-            this.tabPage7.Location = new System.Drawing.Point(4, 31);
+            this.tabPage7.Location = new System.Drawing.Point(4, 26);
             this.tabPage7.Name = "tabPage7";
-            this.tabPage7.Size = new System.Drawing.Size(967, 506);
+            this.tabPage7.Size = new System.Drawing.Size(967, 511);
             this.tabPage7.TabIndex = 6;
             this.tabPage7.Text = "Controller Statistics 2";
             this.tabPage7.UseVisualStyleBackColor = true;
@@ -3516,7 +3516,7 @@ namespace ModbusSampleBR
             this.label80.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label80.Location = new System.Drawing.Point(11, 73);
             this.label80.Name = "label80";
-            this.label80.Size = new System.Drawing.Size(90, 20);
+            this.label80.Size = new System.Drawing.Size(77, 17);
             this.label80.TabIndex = 150;
             this.label80.Text = "X2X length";
             // 
@@ -3526,7 +3526,7 @@ namespace ModbusSampleBR
             this.label79.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label79.Location = new System.Drawing.Point(11, 39);
             this.label79.Name = "label79";
-            this.label79.Size = new System.Drawing.Size(84, 20);
+            this.label79.Size = new System.Drawing.Size(70, 17);
             this.label79.TabIndex = 149;
             this.label79.Text = "X2X cycle";
             // 
@@ -3546,7 +3546,7 @@ namespace ModbusSampleBR
             this.label116.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label116.Location = new System.Drawing.Point(11, 144);
             this.label116.Name = "label116";
-            this.label116.Size = new System.Drawing.Size(116, 20);
+            this.label116.Size = new System.Drawing.Size(95, 17);
             this.label116.TabIndex = 147;
             this.label116.Text = "Bus off cycles";
             // 
@@ -3566,7 +3566,7 @@ namespace ModbusSampleBR
             this.label109.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label109.Location = new System.Drawing.Point(11, 109);
             this.label109.Name = "label109";
-            this.label109.Size = new System.Drawing.Size(130, 20);
+            this.label109.Size = new System.Drawing.Size(109, 17);
             this.label109.TabIndex = 145;
             this.label109.Text = "X2X cycle count";
             // 
@@ -3596,7 +3596,7 @@ namespace ModbusSampleBR
             this.label156.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label156.Location = new System.Drawing.Point(11, 451);
             this.label156.Name = "label156";
-            this.label156.Size = new System.Drawing.Size(122, 20);
+            this.label156.Size = new System.Drawing.Size(102, 17);
             this.label156.TabIndex = 142;
             this.label156.Text = "Buffer overflow";
             // 
@@ -3626,7 +3626,7 @@ namespace ModbusSampleBR
             this.label153.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label153.Location = new System.Drawing.Point(11, 416);
             this.label153.Name = "label153";
-            this.label153.Size = new System.Drawing.Size(126, 20);
+            this.label153.Size = new System.Drawing.Size(108, 17);
             this.label153.TabIndex = 139;
             this.label153.Text = "Buffer underrun";
             // 
@@ -3636,7 +3636,7 @@ namespace ModbusSampleBR
             this.label120.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label120.Location = new System.Drawing.Point(285, 210);
             this.label120.Name = "label120";
-            this.label120.Size = new System.Drawing.Size(150, 20);
+            this.label120.Size = new System.Drawing.Size(127, 17);
             this.label120.TabIndex = 138;
             this.label120.Text = "Asynchronus erros";
             // 
@@ -3666,7 +3666,7 @@ namespace ModbusSampleBR
             this.label132.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label132.Location = new System.Drawing.Point(11, 381);
             this.label132.Name = "label132";
-            this.label132.Size = new System.Drawing.Size(120, 20);
+            this.label132.Size = new System.Drawing.Size(103, 17);
             this.label132.TabIndex = 135;
             this.label132.Text = "Frame pending";
             // 
@@ -3696,7 +3696,7 @@ namespace ModbusSampleBR
             this.label138.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label138.Location = new System.Drawing.Point(11, 346);
             this.label138.Name = "label138";
-            this.label138.Size = new System.Drawing.Size(98, 20);
+            this.label138.Size = new System.Drawing.Size(80, 17);
             this.label138.TabIndex = 132;
             this.label138.Text = "Frame CRC";
             // 
@@ -3726,7 +3726,7 @@ namespace ModbusSampleBR
             this.label142.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label142.Location = new System.Drawing.Point(11, 311);
             this.label142.Name = "label142";
-            this.label142.Size = new System.Drawing.Size(107, 20);
+            this.label142.Size = new System.Drawing.Size(89, 17);
             this.label142.TabIndex = 129;
             this.label142.Text = "Frame timing";
             // 
@@ -3756,7 +3756,7 @@ namespace ModbusSampleBR
             this.label145.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label145.Location = new System.Drawing.Point(11, 276);
             this.label145.Name = "label145";
-            this.label145.Size = new System.Drawing.Size(89, 20);
+            this.label145.Size = new System.Drawing.Size(73, 17);
             this.label145.TabIndex = 126;
             this.label145.Text = "Bus timing";
             // 
@@ -3776,7 +3776,7 @@ namespace ModbusSampleBR
             this.label148.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label148.Location = new System.Drawing.Point(131, 210);
             this.label148.Name = "label148";
-            this.label148.Size = new System.Drawing.Size(147, 20);
+            this.label148.Size = new System.Drawing.Size(125, 17);
             this.label148.TabIndex = 124;
             this.label148.Text = "Synchronus errors";
             // 
@@ -3796,7 +3796,7 @@ namespace ModbusSampleBR
             this.label150.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label150.Location = new System.Drawing.Point(11, 241);
             this.label150.Name = "label150";
-            this.label150.Size = new System.Drawing.Size(76, 20);
+            this.label150.Size = new System.Drawing.Size(63, 17);
             this.label150.TabIndex = 122;
             this.label150.Text = "Common";
             // 
@@ -3852,7 +3852,7 @@ namespace ModbusSampleBR
             this.label146.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label146.Location = new System.Drawing.Point(18, 109);
             this.label146.Name = "label146";
-            this.label146.Size = new System.Drawing.Size(88, 20);
+            this.label146.Size = new System.Drawing.Size(74, 17);
             this.label146.TabIndex = 140;
             this.label146.Text = "Boot block";
             // 
@@ -3872,7 +3872,7 @@ namespace ModbusSampleBR
             this.label119.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label119.Location = new System.Drawing.Point(18, 270);
             this.label119.Name = "label119";
-            this.label119.Size = new System.Drawing.Size(109, 20);
+            this.label119.Size = new System.Drawing.Size(93, 17);
             this.label119.TabIndex = 138;
             this.label119.Text = "FPGA update";
             // 
@@ -3952,7 +3952,7 @@ namespace ModbusSampleBR
             this.label117.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label117.Location = new System.Drawing.Point(18, 235);
             this.label117.Name = "label117";
-            this.label117.Size = new System.Drawing.Size(109, 20);
+            this.label117.Size = new System.Drawing.Size(92, 17);
             this.label117.TabIndex = 130;
             this.label117.Text = "FPGA default";
             // 
@@ -3972,7 +3972,7 @@ namespace ModbusSampleBR
             this.label121.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label121.Location = new System.Drawing.Point(18, 200);
             this.label121.Name = "label121";
-            this.label121.Size = new System.Drawing.Size(151, 20);
+            this.label121.Size = new System.Drawing.Size(125, 17);
             this.label121.TabIndex = 128;
             this.label121.Text = "FPGA HW revision";
             // 
@@ -4002,7 +4002,7 @@ namespace ModbusSampleBR
             this.label125.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label125.Location = new System.Drawing.Point(18, 451);
             this.label125.Name = "label125";
-            this.label125.Size = new System.Drawing.Size(114, 20);
+            this.label125.Size = new System.Drawing.Size(96, 17);
             this.label125.TabIndex = 125;
             this.label125.Text = "Minor revision";
             // 
@@ -4032,7 +4032,7 @@ namespace ModbusSampleBR
             this.label133.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label133.Location = new System.Drawing.Point(161, 385);
             this.label133.Name = "label133";
-            this.label133.Size = new System.Drawing.Size(82, 20);
+            this.label133.Size = new System.Drawing.Size(69, 17);
             this.label133.TabIndex = 122;
             this.label133.Text = "Hardware";
             // 
@@ -4052,7 +4052,7 @@ namespace ModbusSampleBR
             this.label135.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label135.Location = new System.Drawing.Point(18, 416);
             this.label135.Name = "label135";
-            this.label135.Size = new System.Drawing.Size(114, 20);
+            this.label135.Size = new System.Drawing.Size(96, 17);
             this.label135.TabIndex = 120;
             this.label135.Text = "Major revision";
             // 
@@ -4072,7 +4072,7 @@ namespace ModbusSampleBR
             this.label114.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label114.Location = new System.Drawing.Point(18, 74);
             this.label114.Name = "label114";
-            this.label114.Size = new System.Drawing.Size(108, 20);
+            this.label114.Size = new System.Drawing.Size(92, 17);
             this.label114.TabIndex = 118;
             this.label114.Text = "Product code";
             // 
@@ -4092,7 +4092,7 @@ namespace ModbusSampleBR
             this.label103.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label103.Location = new System.Drawing.Point(18, 39);
             this.label103.Name = "label103";
-            this.label103.Size = new System.Drawing.Size(113, 20);
+            this.label103.Size = new System.Drawing.Size(96, 17);
             this.label103.TabIndex = 116;
             this.label103.Text = "Serial number";
             // 
@@ -4126,7 +4126,7 @@ namespace ModbusSampleBR
             // 
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
             this.AutoSize = true;
-            this.ClientSize = new System.Drawing.Size(1006, 721);
+            this.ClientSize = new System.Drawing.Size(1018, 743);
             this.Controls.Add(this.grpModules);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.grpBusCoupler);
@@ -4136,9 +4136,9 @@ namespace ModbusSampleBR
             this.MaximumSize = new System.Drawing.Size(1024, 768);
             this.MinimumSize = new System.Drawing.Size(1024, 768);
             this.Name = "frmMain";
-            this.Text = "Modbus B&R Sample for X20BC0087 class Version 3.5";
-            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMain_FormClosing);
+            this.Text = "Modbus B&R Sample for X20BC0087 class Version 3.2";
             this.Load += new System.EventHandler(this.frmMain_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.frmMain_FormClosing);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.tabPage13.ResumeLayout(false);
